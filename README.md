@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BuzzMatch v5
 
 BuzzMatch is a Flutter application that connects content creators with brands for advertising campaigns. The app allows brands to create campaigns and match with content creators who can produce quality promotional content.
@@ -155,3 +156,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# buzzmatch_v5
+>>>>>>> 38bd9f66fa799a646648f0470c14e13db8220696
